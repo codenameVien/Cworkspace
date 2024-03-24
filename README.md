@@ -1,4 +1,4 @@
-# C 학교 코드들
+# C 코드들
  학교 C 공부했던 코드들 주차별로 정리
 
 # 도서관리프로그램 (book_management_program)
