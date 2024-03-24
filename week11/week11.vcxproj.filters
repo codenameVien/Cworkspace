@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="초기화.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열의 길이 구하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열의 특정 문자 변경.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="getchar와getch예제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="getch사용-도형의크기변경.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gets_s와 puts 문자열 입출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strcmp-문자열비교.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strcat-문자열연결.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strncpy-문자열복사시길이제한.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strncmp-문자열비교시길이제한.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="atoi와 atof - 문자열을 수치로 변환.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strcpy-문자열복사.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strlen - 문자열길이.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf와 printf 문자열 입출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="행맨게임.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터와문자열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="단어 애니어그램 스크램블.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="한영사전-3차원배열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="메뉴디스플레이.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="aa고민-문자열배열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strcmp-예제2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
